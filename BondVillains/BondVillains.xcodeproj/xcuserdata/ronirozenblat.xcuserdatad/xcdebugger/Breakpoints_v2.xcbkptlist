@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BondVillains/VillainDetailViewController.swift"
+            timestampString = "462385165.76293"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "viewWillAppear(_:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BondVillains/VillainDetailViewController.swift"
+            timestampString = "462385187.026527"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "VillainDetailViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BondVillains.VillainDetailViewController.selectedVillian.getter : Swift.Optional&lt;BondVillains.Villain&gt;"
+                  moduleName = "BondVillains"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ronirozenblat/Desktop/Udacity/ios-nanodegree-uikit/BondVillains/BondVillains/VillainDetailViewController.swift"
+                  timestampString = "462387176.38931"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "27">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BondVillains.VillainDetailViewController.selectedVillian.materializeForSet : Swift.Optional&lt;BondVillains.Villain&gt;"
+                  moduleName = "BondVillains"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ronirozenblat/Desktop/Udacity/ios-nanodegree-uikit/BondVillains/BondVillains/VillainDetailViewController.swift"
+                  timestampString = "462387176.389882"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BondVillains.VillainDetailViewController.init (BondVillains.VillainDetailViewController.Type)(nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;ObjectiveC.NSBundle&gt;) -&gt; BondVillains.VillainDetailViewController"
+                  moduleName = "BondVillains"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ronirozenblat/Desktop/Udacity/ios-nanodegree-uikit/BondVillains/BondVillains/VillainDetailViewController.swift"
+                  timestampString = "462387176.390123"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "363">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BondVillains.VillainDetailViewController.init (BondVillains.VillainDetailViewController.Type)(coder : ObjectiveC.NSCoder) -&gt; BondVillains.VillainDetailViewController"
+                  moduleName = "BondVillains"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ronirozenblat/Desktop/Udacity/ios-nanodegree-uikit/BondVillains/BondVillains/VillainDetailViewController.swift"
+                  timestampString = "462387176.390464"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "275">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BondVillains/VillainDetailViewController.swift"
+            timestampString = "462385329.348682"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "viewWillAppear(_:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BondVillains/VillainDetailViewController.swift"
+            timestampString = "462387205.442423"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "VillainDetailViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BondVillains.VillainDetailViewController.selectedVillian.getter : Swift.Optional&lt;BondVillains.Villain&gt;"
+                  moduleName = "BondVillains"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ronirozenblat/Desktop/Udacity/ios-nanodegree-uikit/BondVillains/BondVillains/VillainDetailViewController.swift"
+                  timestampString = "462387205.445333"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "27">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BondVillains.VillainDetailViewController.selectedVillian.setter : Swift.Optional&lt;BondVillains.Villain&gt;"
+                  moduleName = "BondVillains"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ronirozenblat/Desktop/Udacity/ios-nanodegree-uikit/BondVillains/BondVillains/VillainDetailViewController.swift"
+                  timestampString = "462387205.445808"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "91">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BondVillains.VillainDetailViewController.selectedVillian.materializeForSet : Swift.Optional&lt;BondVillains.Villain&gt;"
+                  moduleName = "BondVillains"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ronirozenblat/Desktop/Udacity/ios-nanodegree-uikit/BondVillains/BondVillains/VillainDetailViewController.swift"
+                  timestampString = "462387205.446038"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BondVillains.VillainDetailViewController.init (BondVillains.VillainDetailViewController.Type)(nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;ObjectiveC.NSBundle&gt;) -&gt; BondVillains.VillainDetailViewController"
+                  moduleName = "BondVillains"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ronirozenblat/Desktop/Udacity/ios-nanodegree-uikit/BondVillains/BondVillains/VillainDetailViewController.swift"
+                  timestampString = "462387205.44636"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "363">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BondVillains.VillainDetailViewController.init (BondVillains.VillainDetailViewController.Type)(coder : ObjectiveC.NSCoder) -&gt; BondVillains.VillainDetailViewController"
+                  moduleName = "BondVillains"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ronirozenblat/Desktop/Udacity/ios-nanodegree-uikit/BondVillains/BondVillains/VillainDetailViewController.swift"
+                  timestampString = "462387205.446837"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "275">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BondVillains/ViewController.swift"
+            timestampString = "462387389.734509"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "tableView(_:numberOfRowsInSection:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BondVillains/ViewController.swift"
+            timestampString = "462387422.301667"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "51"
+            endingLineNumber = "51"
+            landmarkName = "tableView(_:didSelectRowAtIndexPath:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BondVillains/ViewController.swift"
+            timestampString = "462387447.667115"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "57"
+            endingLineNumber = "57"
+            landmarkName = "tableView(_:didSelectRowAtIndexPath:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BondVillains/ViewController.swift"
+            timestampString = "462387469.05743"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "55"
+            endingLineNumber = "55"
+            landmarkName = "tableView(_:didSelectRowAtIndexPath:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BondVillains/VillainDetailViewController.swift"
+            timestampString = "462399618.649811"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "viewWillAppear(_:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BondVillains/ViewController.swift"
+            timestampString = "462406887.620573"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "71"
+            endingLineNumber = "71"
+            landmarkName = "tableView(_:didSelectRowAtIndexPath:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
